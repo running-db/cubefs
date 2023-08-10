@@ -1,6 +1,6 @@
 # yum 部署
 
-可以使用yum工具在CentOS 7+操作系统中快速部署和启动CubeFS集群。
+使用yum工具在CentOS 7+操作系统中快速部署和启动CubeFS集群。
 
 ## 获取对应版本
 
