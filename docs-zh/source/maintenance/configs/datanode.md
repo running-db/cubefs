@@ -5,7 +5,6 @@
 |:---------------|:--------------|:---------------------------------------|:-------|
 | role          | string       | Role必须配置为“datanode”                   | 是   |
 | listen        | string       | 数据节点作为服务端启动TCP监听的端口                   | 是   |
-| localIP       | string       | 数据节点作为服务端选用的IP                        | 否   |
 | prof          | string       | 数据节点提供HTTP接口所用的端口                     | 是   |
 | logDir        | string       | 调测日志存放的路径                             | 是   |
 | logLevel      | string       | 调测日志的级别。默认是error                      | 否   |
